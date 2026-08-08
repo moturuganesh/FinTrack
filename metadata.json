@@ -1,0 +1,6 @@
+{
+  "name": "FinTrack",
+  "description": "A financial tracking app with overview, spends, and savings insights.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

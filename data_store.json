@@ -1,0 +1,1335 @@
+{
+  "user": {
+    "id": "ruby-001",
+    "name": "Ruby",
+    "email": "ruby@fintrack.app",
+    "avatar": "R",
+    "monthlyIncome": 80000,
+    "savingsStrategy": "medium",
+    "spendRatio": 0.8,
+    "saveRatio": 0.2
+  },
+  "fixedObligations": [
+    {
+      "id": "fixed-1",
+      "merchant": "Apartment Owner Rent",
+      "category": "Rent",
+      "amount": 18000,
+      "dayOfMonth": 1
+    },
+    {
+      "id": "fixed-2",
+      "merchant": "HDFC Home EMI Loan",
+      "category": "EMI Bill",
+      "amount": 7000,
+      "dayOfMonth": 5
+    },
+    {
+      "id": "fixed-3",
+      "merchant": "Netflix, Spotify & Gym Membership",
+      "category": "Subscriptions",
+      "amount": 2000,
+      "dayOfMonth": 3
+    }
+  ],
+  "transactions": [
+    {
+      "id": "ruby-tx-138-1786163215132",
+      "merchant": "Uber Ride",
+      "category": "Transport",
+      "amount": 362,
+      "date": "2026-08-30",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-137-1786163215132",
+      "merchant": "Swiggy Food",
+      "category": "Food & Dining",
+      "amount": 814,
+      "date": "2026-08-28",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-136-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 1326,
+      "date": "2026-08-27",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-135-1786163215132",
+      "merchant": "Uber Ride",
+      "category": "Transport",
+      "amount": 358,
+      "date": "2026-08-26",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-134-1786163215132",
+      "merchant": "HP Petrol Pump",
+      "category": "Transport",
+      "amount": 992,
+      "date": "2026-08-25",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-133-1786163215132",
+      "merchant": "HP Petrol Pump",
+      "category": "Transport",
+      "amount": 1021,
+      "date": "2026-08-23",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-132-1786163215132",
+      "merchant": "Uber Ride",
+      "category": "Transport",
+      "amount": 335,
+      "date": "2026-08-22",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-131-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 1702,
+      "date": "2026-08-21",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-130-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 2309,
+      "date": "2026-08-19",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-129-1786163215132",
+      "merchant": "D-Mart Supermarket",
+      "category": "Groceries",
+      "amount": 2898,
+      "date": "2026-08-18",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-128-1786163215132",
+      "merchant": "Zepto Groceries",
+      "category": "Groceries",
+      "amount": 1184,
+      "date": "2026-08-17",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-127-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 846,
+      "date": "2026-08-16",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-126-1786163215132",
+      "merchant": "PVR Cinema",
+      "category": "Entertainment",
+      "amount": 511,
+      "date": "2026-08-14",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-125-1786163215132",
+      "merchant": "Uber Ride",
+      "category": "Transport",
+      "amount": 291,
+      "date": "2026-08-13",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-124-1786163215132",
+      "merchant": "HP Petrol Pump",
+      "category": "Transport",
+      "amount": 1308,
+      "date": "2026-08-12",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-123-1786163215132",
+      "merchant": "Swiggy Food",
+      "category": "Food & Dining",
+      "amount": 360,
+      "date": "2026-08-11",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-122-1786163215132",
+      "merchant": "HP Petrol Pump",
+      "category": "Transport",
+      "amount": 1372,
+      "date": "2026-08-10",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-121-1786163215132",
+      "merchant": "Zepto Groceries",
+      "category": "Groceries",
+      "amount": 1143,
+      "date": "2026-08-08",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-120-1786163215132",
+      "merchant": "Swiggy Food",
+      "category": "Food & Dining",
+      "amount": 393,
+      "date": "2026-08-07",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-116-1786163215132",
+      "merchant": "HDFC Home EMI Loan",
+      "category": "EMI Bill",
+      "amount": 7000,
+      "date": "2026-08-05",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-117-1786163215132",
+      "merchant": "Netflix, Spotify & Gym Membership",
+      "category": "Subscriptions",
+      "amount": 2000,
+      "date": "2026-08-03",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-119-1786163215132",
+      "merchant": "PVR Cinema",
+      "category": "Entertainment",
+      "amount": 1095,
+      "date": "2026-08-02",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-115-1786163215132",
+      "merchant": "Apartment Owner Rent",
+      "category": "Rent",
+      "amount": 18000,
+      "date": "2026-08-01",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-118-1786163215132",
+      "merchant": "D-Mart Supermarket",
+      "category": "Groceries",
+      "amount": 2193,
+      "date": "2026-08-01",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-114-1786163215132",
+      "merchant": "Swiggy Food",
+      "category": "Food & Dining",
+      "amount": 685,
+      "date": "2026-07-29",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-113-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 1561,
+      "date": "2026-07-27",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-112-1786163215132",
+      "merchant": "Swiggy Food",
+      "category": "Food & Dining",
+      "amount": 849,
+      "date": "2026-07-26",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-111-1786163215132",
+      "merchant": "Uber Ride",
+      "category": "Transport",
+      "amount": 393,
+      "date": "2026-07-25",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-110-1786163215132",
+      "merchant": "PVR Cinema",
+      "category": "Entertainment",
+      "amount": 623,
+      "date": "2026-07-24",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-109-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 718,
+      "date": "2026-07-23",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-108-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 1822,
+      "date": "2026-07-22",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-107-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 2422,
+      "date": "2026-07-21",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-106-1786163215132",
+      "merchant": "Starbucks Coffee",
+      "category": "Food & Dining",
+      "amount": 323,
+      "date": "2026-07-20",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-105-1786163215132",
+      "merchant": "PVR Cinema",
+      "category": "Entertainment",
+      "amount": 1093,
+      "date": "2026-07-19",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-104-1786163215132",
+      "merchant": "D-Mart Supermarket",
+      "category": "Groceries",
+      "amount": 2453,
+      "date": "2026-07-17",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-103-1786163215132",
+      "merchant": "PVR Cinema",
+      "category": "Entertainment",
+      "amount": 917,
+      "date": "2026-07-15",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-102-1786163215132",
+      "merchant": "Zepto Groceries",
+      "category": "Groceries",
+      "amount": 828,
+      "date": "2026-07-14",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-101-1786163215132",
+      "merchant": "D-Mart Supermarket",
+      "category": "Groceries",
+      "amount": 1988,
+      "date": "2026-07-13",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-100-1786163215132",
+      "merchant": "Starbucks Coffee",
+      "category": "Food & Dining",
+      "amount": 423,
+      "date": "2026-07-12",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-99-1786163215132",
+      "merchant": "Zepto Groceries",
+      "category": "Groceries",
+      "amount": 783,
+      "date": "2026-07-11",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-98-1786163215132",
+      "merchant": "PVR Cinema",
+      "category": "Entertainment",
+      "amount": 679,
+      "date": "2026-07-10",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-97-1786163215132",
+      "merchant": "Swiggy Food",
+      "category": "Food & Dining",
+      "amount": 491,
+      "date": "2026-07-09",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-96-1786163215132",
+      "merchant": "HP Petrol Pump",
+      "category": "Transport",
+      "amount": 1475,
+      "date": "2026-07-07",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-95-1786163215132",
+      "merchant": "Swiggy Food",
+      "category": "Food & Dining",
+      "amount": 444,
+      "date": "2026-07-06",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-91-1786163215132",
+      "merchant": "HDFC Home EMI Loan",
+      "category": "EMI Bill",
+      "amount": 7000,
+      "date": "2026-07-05",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-92-1786163215132",
+      "merchant": "Netflix, Spotify & Gym Membership",
+      "category": "Subscriptions",
+      "amount": 2000,
+      "date": "2026-07-03",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-94-1786163215132",
+      "merchant": "Uber Ride",
+      "category": "Transport",
+      "amount": 253,
+      "date": "2026-07-03",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-93-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 1832,
+      "date": "2026-07-02",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-90-1786163215132",
+      "merchant": "Apartment Owner Rent",
+      "category": "Rent",
+      "amount": 18000,
+      "date": "2026-07-01",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-89-1786163215132",
+      "merchant": "Uber Ride",
+      "category": "Transport",
+      "amount": 237,
+      "date": "2026-06-29",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-88-1786163215132",
+      "merchant": "Uber Ride",
+      "category": "Transport",
+      "amount": 240,
+      "date": "2026-06-28",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-87-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 1464,
+      "date": "2026-06-27",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-86-1786163215132",
+      "merchant": "Swiggy Food",
+      "category": "Food & Dining",
+      "amount": 595,
+      "date": "2026-06-26",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-85-1786163215132",
+      "merchant": "Starbucks Coffee",
+      "category": "Food & Dining",
+      "amount": 536,
+      "date": "2026-06-24",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-84-1786163215132",
+      "merchant": "D-Mart Supermarket",
+      "category": "Groceries",
+      "amount": 3061,
+      "date": "2026-06-23",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-83-1786163215132",
+      "merchant": "D-Mart Supermarket",
+      "category": "Groceries",
+      "amount": 2790,
+      "date": "2026-06-22",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-82-1786163215132",
+      "merchant": "Swiggy Food",
+      "category": "Food & Dining",
+      "amount": 776,
+      "date": "2026-06-21",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-81-1786163215132",
+      "merchant": "Swiggy Food",
+      "category": "Food & Dining",
+      "amount": 668,
+      "date": "2026-06-20",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-80-1786163215132",
+      "merchant": "Zepto Groceries",
+      "category": "Groceries",
+      "amount": 435,
+      "date": "2026-06-19",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-79-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 1540,
+      "date": "2026-06-18",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-78-1786163215132",
+      "merchant": "HP Petrol Pump",
+      "category": "Transport",
+      "amount": 995,
+      "date": "2026-06-17",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-77-1786163215132",
+      "merchant": "Swiggy Food",
+      "category": "Food & Dining",
+      "amount": 390,
+      "date": "2026-06-16",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-76-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 1117,
+      "date": "2026-06-15",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-75-1786163215132",
+      "merchant": "PVR Cinema",
+      "category": "Entertainment",
+      "amount": 890,
+      "date": "2026-06-13",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-74-1786163215132",
+      "merchant": "Zepto Groceries",
+      "category": "Groceries",
+      "amount": 576,
+      "date": "2026-06-12",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-73-1786163215132",
+      "merchant": "D-Mart Supermarket",
+      "category": "Groceries",
+      "amount": 1907,
+      "date": "2026-06-11",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-72-1786163215132",
+      "merchant": "Starbucks Coffee",
+      "category": "Food & Dining",
+      "amount": 550,
+      "date": "2026-06-09",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-71-1786163215132",
+      "merchant": "Zepto Groceries",
+      "category": "Groceries",
+      "amount": 633,
+      "date": "2026-06-08",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-70-1786163215132",
+      "merchant": "Starbucks Coffee",
+      "category": "Food & Dining",
+      "amount": 303,
+      "date": "2026-06-07",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-69-1786163215132",
+      "merchant": "D-Mart Supermarket",
+      "category": "Groceries",
+      "amount": 1615,
+      "date": "2026-06-06",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-66-1786163215132",
+      "merchant": "HDFC Home EMI Loan",
+      "category": "EMI Bill",
+      "amount": 7000,
+      "date": "2026-06-05",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-68-1786163215132",
+      "merchant": "D-Mart Supermarket",
+      "category": "Groceries",
+      "amount": 3316,
+      "date": "2026-06-05",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-67-1786163215132",
+      "merchant": "Netflix, Spotify & Gym Membership",
+      "category": "Subscriptions",
+      "amount": 2000,
+      "date": "2026-06-03",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-65-1786163215132",
+      "merchant": "Apartment Owner Rent",
+      "category": "Rent",
+      "amount": 18000,
+      "date": "2026-06-01",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-64-1786163215132",
+      "merchant": "Zepto Groceries",
+      "category": "Groceries",
+      "amount": 506,
+      "date": "2026-05-30",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-63-1786163215132",
+      "merchant": "PVR Cinema",
+      "category": "Entertainment",
+      "amount": 968,
+      "date": "2026-05-27",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-62-1786163215132",
+      "merchant": "D-Mart Supermarket",
+      "category": "Groceries",
+      "amount": 2574,
+      "date": "2026-05-24",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-61-1786163215132",
+      "merchant": "Starbucks Coffee",
+      "category": "Food & Dining",
+      "amount": 461,
+      "date": "2026-05-22",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-60-1786163215132",
+      "merchant": "HP Petrol Pump",
+      "category": "Transport",
+      "amount": 1181,
+      "date": "2026-05-20",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-59-1786163215132",
+      "merchant": "HP Petrol Pump",
+      "category": "Transport",
+      "amount": 911,
+      "date": "2026-05-19",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-58-1786163215132",
+      "merchant": "Swiggy Food",
+      "category": "Food & Dining",
+      "amount": 350,
+      "date": "2026-05-18",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-57-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 907,
+      "date": "2026-05-17",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-56-1786163215132",
+      "merchant": "Starbucks Coffee",
+      "category": "Food & Dining",
+      "amount": 638,
+      "date": "2026-05-16",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-55-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 1166,
+      "date": "2026-05-15",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-54-1786163215132",
+      "merchant": "Uber Ride",
+      "category": "Transport",
+      "amount": 363,
+      "date": "2026-05-14",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-53-1786163215132",
+      "merchant": "HP Petrol Pump",
+      "category": "Transport",
+      "amount": 1308,
+      "date": "2026-05-12",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-52-1786163215132",
+      "merchant": "HP Petrol Pump",
+      "category": "Transport",
+      "amount": 1342,
+      "date": "2026-05-11",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-51-1786163215132",
+      "merchant": "PVR Cinema",
+      "category": "Entertainment",
+      "amount": 544,
+      "date": "2026-05-06",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-45-1786163215132",
+      "merchant": "HDFC Home EMI Loan",
+      "category": "EMI Bill",
+      "amount": 7000,
+      "date": "2026-05-05",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-50-1786163215132",
+      "merchant": "D-Mart Supermarket",
+      "category": "Groceries",
+      "amount": 2391,
+      "date": "2026-05-04",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-46-1786163215132",
+      "merchant": "Netflix, Spotify & Gym Membership",
+      "category": "Subscriptions",
+      "amount": 2000,
+      "date": "2026-05-03",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-49-1786163215132",
+      "merchant": "Starbucks Coffee",
+      "category": "Food & Dining",
+      "amount": 532,
+      "date": "2026-05-03",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-48-1786163215132",
+      "merchant": "Zepto Groceries",
+      "category": "Groceries",
+      "amount": 670,
+      "date": "2026-05-02",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-44-1786163215132",
+      "merchant": "Apartment Owner Rent",
+      "category": "Rent",
+      "amount": 18000,
+      "date": "2026-05-01",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-47-1786163215132",
+      "merchant": "Swiggy Food",
+      "category": "Food & Dining",
+      "amount": 548,
+      "date": "2026-05-01",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-43-1786163215132",
+      "merchant": "Swiggy Food",
+      "category": "Food & Dining",
+      "amount": 767,
+      "date": "2026-04-30",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-42-1786163215132",
+      "merchant": "Zepto Groceries",
+      "category": "Groceries",
+      "amount": 910,
+      "date": "2026-04-24",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-41-1786163215132",
+      "merchant": "Uber Ride",
+      "category": "Transport",
+      "amount": 203,
+      "date": "2026-04-22",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-40-1786163215132",
+      "merchant": "HP Petrol Pump",
+      "category": "Transport",
+      "amount": 1457,
+      "date": "2026-04-19",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-39-1786163215132",
+      "merchant": "Starbucks Coffee",
+      "category": "Food & Dining",
+      "amount": 304,
+      "date": "2026-04-17",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-38-1786163215132",
+      "merchant": "PVR Cinema",
+      "category": "Entertainment",
+      "amount": 1165,
+      "date": "2026-04-16",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-37-1786163215132",
+      "merchant": "Uber Ride",
+      "category": "Transport",
+      "amount": 198,
+      "date": "2026-04-15",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-36-1786163215132",
+      "merchant": "Zepto Groceries",
+      "category": "Groceries",
+      "amount": 472,
+      "date": "2026-04-14",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-35-1786163215132",
+      "merchant": "Swiggy Food",
+      "category": "Food & Dining",
+      "amount": 356,
+      "date": "2026-04-13",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-34-1786163215132",
+      "merchant": "HP Petrol Pump",
+      "category": "Transport",
+      "amount": 855,
+      "date": "2026-04-11",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-33-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 922,
+      "date": "2026-04-10",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-32-1786163215132",
+      "merchant": "Zepto Groceries",
+      "category": "Groceries",
+      "amount": 409,
+      "date": "2026-04-09",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-31-1786163215132",
+      "merchant": "Starbucks Coffee",
+      "category": "Food & Dining",
+      "amount": 419,
+      "date": "2026-04-08",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-30-1786163215132",
+      "merchant": "D-Mart Supermarket",
+      "category": "Groceries",
+      "amount": 2083,
+      "date": "2026-04-07",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-25-1786163215132",
+      "merchant": "HDFC Home EMI Loan",
+      "category": "EMI Bill",
+      "amount": 7000,
+      "date": "2026-04-05",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-29-1786163215132",
+      "merchant": "Zepto Groceries",
+      "category": "Groceries",
+      "amount": 827,
+      "date": "2026-04-05",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-26-1786163215132",
+      "merchant": "Netflix, Spotify & Gym Membership",
+      "category": "Subscriptions",
+      "amount": 2000,
+      "date": "2026-04-03",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-28-1786163215132",
+      "merchant": "HP Petrol Pump",
+      "category": "Transport",
+      "amount": 1233,
+      "date": "2026-04-03",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-27-1786163215132",
+      "merchant": "Zepto Groceries",
+      "category": "Groceries",
+      "amount": 690,
+      "date": "2026-04-02",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-24-1786163215132",
+      "merchant": "Apartment Owner Rent",
+      "category": "Rent",
+      "amount": 18000,
+      "date": "2026-04-01",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-23-1786163215132",
+      "merchant": "PVR Cinema",
+      "category": "Entertainment",
+      "amount": 644,
+      "date": "2026-03-29",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-22-1786163215132",
+      "merchant": "Zepto Groceries",
+      "category": "Groceries",
+      "amount": 521,
+      "date": "2026-03-28",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-21-1786163215132",
+      "merchant": "PVR Cinema",
+      "category": "Entertainment",
+      "amount": 950,
+      "date": "2026-03-27",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-20-1786163215132",
+      "merchant": "Starbucks Coffee",
+      "category": "Food & Dining",
+      "amount": 422,
+      "date": "2026-03-26",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-19-1786163215132",
+      "merchant": "Zepto Groceries",
+      "category": "Groceries",
+      "amount": 782,
+      "date": "2026-03-23",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-18-1786163215132",
+      "merchant": "D-Mart Supermarket",
+      "category": "Groceries",
+      "amount": 2414,
+      "date": "2026-03-22",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-17-1786163215132",
+      "merchant": "Swiggy Food",
+      "category": "Food & Dining",
+      "amount": 772,
+      "date": "2026-03-20",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-16-1786163215132",
+      "merchant": "D-Mart Supermarket",
+      "category": "Groceries",
+      "amount": 2270,
+      "date": "2026-03-19",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-15-1786163215132",
+      "merchant": "Swiggy Food",
+      "category": "Food & Dining",
+      "amount": 414,
+      "date": "2026-03-18",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-14-1786163215132",
+      "merchant": "D-Mart Supermarket",
+      "category": "Groceries",
+      "amount": 2111,
+      "date": "2026-03-17",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-13-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 1454,
+      "date": "2026-03-14",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-12-1786163215132",
+      "merchant": "HP Petrol Pump",
+      "category": "Transport",
+      "amount": 1224,
+      "date": "2026-03-12",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-11-1786163215132",
+      "merchant": "PVR Cinema",
+      "category": "Entertainment",
+      "amount": 1140,
+      "date": "2026-03-10",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-10-1786163215132",
+      "merchant": "HP Petrol Pump",
+      "category": "Transport",
+      "amount": 1144,
+      "date": "2026-03-08",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-9-1786163215132",
+      "merchant": "Starbucks Coffee",
+      "category": "Food & Dining",
+      "amount": 328,
+      "date": "2026-03-07",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-8-1786163215132",
+      "merchant": "HP Petrol Pump",
+      "category": "Transport",
+      "amount": 1335,
+      "date": "2026-03-06",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-2-1786163215132",
+      "merchant": "HDFC Home EMI Loan",
+      "category": "EMI Bill",
+      "amount": 7000,
+      "date": "2026-03-05",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-7-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 1375,
+      "date": "2026-03-05",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-6-1786163215132",
+      "merchant": "PVR Cinema",
+      "category": "Entertainment",
+      "amount": 802,
+      "date": "2026-03-04",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-3-1786163215132",
+      "merchant": "Netflix, Spotify & Gym Membership",
+      "category": "Subscriptions",
+      "amount": 2000,
+      "date": "2026-03-03",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-5-1786163215132",
+      "merchant": "Amazon Shopping",
+      "category": "Shopping",
+      "amount": 2275,
+      "date": "2026-03-03",
+      "status": "Completed",
+      "isFixed": false
+    },
+    {
+      "id": "ruby-tx-1-1786163215132",
+      "merchant": "Apartment Owner Rent",
+      "category": "Rent",
+      "amount": 18000,
+      "date": "2026-03-01",
+      "status": "Completed",
+      "isFixed": true
+    },
+    {
+      "id": "ruby-tx-4-1786163215132",
+      "merchant": "Starbucks Coffee",
+      "category": "Food & Dining",
+      "amount": 496,
+      "date": "2026-03-01",
+      "status": "Completed",
+      "isFixed": false
+    }
+  ],
+  "budgets": [
+    {
+      "id": "b1",
+      "category": "Groceries",
+      "limit": 12000,
+      "color": "#166534"
+    },
+    {
+      "id": "b2",
+      "category": "Food & Dining",
+      "limit": 8000,
+      "color": "#ea580c"
+    },
+    {
+      "id": "b3",
+      "category": "Transport",
+      "limit": 5000,
+      "color": "#0284c7"
+    },
+    {
+      "id": "b4",
+      "category": "Shopping",
+      "limit": 10000,
+      "color": "#9333ea"
+    },
+    {
+      "id": "b5",
+      "category": "Entertainment",
+      "limit": 5000,
+      "color": "#db2777"
+    }
+  ],
+  "savingsGoals": [
+    {
+      "id": "g1",
+      "name": "Emergency Fund",
+      "target": 200000,
+      "current": 85000,
+      "color": "#166534"
+    },
+    {
+      "id": "g2",
+      "name": "Goa Vacation",
+      "target": 40000,
+      "current": 22000,
+      "color": "#0284c7"
+    },
+    {
+      "id": "g3",
+      "name": "New Laptop",
+      "target": 90000,
+      "current": 35000,
+      "color": "#9333ea"
+    }
+  ],
+  "systemDate": "2026-08-07"
+}

@@ -1,0 +1,59 @@
+{
+  "entities": {
+    "users": {
+      "title": "User Profiles",
+      "description": "User profile, income, and financial strategy",
+      "properties": {
+        "id": { "type": "string" },
+        "email": { "type": "string" },
+        "name": { "type": "string" },
+        "monthlyIncome": { "type": "number" },
+        "savingsStrategy": { "type": "string" },
+        "role": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["email", "name"]
+    },
+    "transactions": {
+      "title": "User Transactions",
+      "description": "User financial transaction records",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "merchant": { "type": "string" },
+        "category": { "type": "string" },
+        "amount": { "type": "number" },
+        "date": { "type": "string" },
+        "status": { "type": "string" },
+        "isFixed": { "type": "boolean" }
+      },
+      "required": ["userId", "merchant", "amount", "date"]
+    },
+    "goals": {
+      "title": "Savings Goals",
+      "description": "User savings goals",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "name": { "type": "string" },
+        "target": { "type": "number" },
+        "current": { "type": "number" },
+        "color": { "type": "string" }
+      },
+      "required": ["userId", "name", "target"]
+    },
+    "fixedObligations": {
+      "title": "Fixed Obligations",
+      "description": "Recurring fixed commitments",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "merchant": { "type": "string" },
+        "category": { "type": "string" },
+        "amount": { "type": "number" },
+        "dayOfMonth": { "type": "number" }
+      },
+      "required": ["userId", "merchant", "amount"]
+    }
+  }
+}
